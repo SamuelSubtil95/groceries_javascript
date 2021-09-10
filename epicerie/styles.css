@@ -1,0 +1,30 @@
+h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-color: #DCDCDC;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: scale-down;
+}
+
+.btn-moins {
+    width: 38px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.btn-plus {
+    width: 38px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.compteur {
+    width : 25px;
+}
